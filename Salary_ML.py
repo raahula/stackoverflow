@@ -8,6 +8,7 @@ import seaborn as sns
 
 def clean_data(df):
     '''
+	1 more line
     INPUT
     df - pandas dataframe
 
